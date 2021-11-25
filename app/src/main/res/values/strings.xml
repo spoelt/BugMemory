@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BugMemory</string>
+    <string name="moves">Moves: %d</string>
+    <string name="elapsed_time">Elapsed Time: %s</string>
+    <string name="trophy">Trophy</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="finished_message">You finished the game in %s with a total of %d moves</string>
+    <string name="play_again">Play again?</string>
+    <string name="exit">Exit</string>
+</resources>
