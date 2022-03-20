@@ -8,6 +8,7 @@ BugMemory is a memory game that lets users "eliminate" bugs by pairing up the ma
 * Kotlin Flows
 * Dependency Injection using Hilt
 * [Konfetti](https://github.com/DanielMartinus/Konfetti)
+* [Rotating Cards](https://fvilarino.medium.com/creating-a-rotating-card-in-jetpack-compose-ba94c7dd76fb)
 * Compose Navigation Component
 * Clean Architecture (Use Case Pattern + Unidirectional Data Flow)
 * Unit Testing
